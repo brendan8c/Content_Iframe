@@ -4,4 +4,4 @@
 We use a preview "picture" of the video.<br>
 When we click on the image, the video starts loading, replacing the current image.<br>
 This allows the site to load faster.<br>
-The SEO specialist will thank us <br> :wink:
+The SEO specialist will thank us :+1: <br>
